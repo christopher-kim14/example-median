@@ -1,5 +1,5 @@
 # Python descriptive statistics
-[![tests](https://github.com/mikeizbicki/example-median/actions/workflows/tests.yml/badge.svg)](https://github.com/mikeizbicki/example-median/actions/workflows/tests.yml)
+[![tests](https://github.com/christopher-kim14/example-median/actions/workflows/tests.yml/badge.svg)](https://github.com/christopher-kim14/example-median/actions/workflows/tests.yml)
 
 
 Instructions:
